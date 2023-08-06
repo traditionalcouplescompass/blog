@@ -26,6 +26,8 @@ Women's roles in marriage have historically centered around nurturing, caregivin
 
 Abraham Maslow's hierarchy of needs offers a valuable framework for understanding how the roles of men and women in marriage align with fundamental human needs. The hierarchy is organized into five levels:
 
+![image](https://github.com/traditionalcouplescompass/blog/assets/141577689/ecc5a3ed-8462-4b3d-a93d-794dd4025c83)
+
 1. **Physiological Needs**: Basic necessities for survival.
 2. **Safety Needs**: Needs related to physical and emotional safety and stability.
 3. **Love & Belongingness**: Emotional relationships, intimacy, and connection.
